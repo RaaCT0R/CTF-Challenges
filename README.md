@@ -4,6 +4,6 @@ We are a CTF-Team including five student from Isfahan University of Technology. 
 ## List of problems
 ### Cryptograpy:
 
- - [tamuctf-crypto3](https://github.com/HadiFazelinia/0xDED5EC/blob/master/cryptography/tamuctf-crypto3.md)
- - [ctflearn-p177](https://github.com/HadiFazelinia/0xDED5EC/blob/master/cryptography/ctflearn-p177.md)
+ - [tamuctf-crypto3](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/tamuctf-crypto3.md)
+ - [ctflearn-p177](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/ctflearn-p177.md)
 
