@@ -1,7 +1,14 @@
-# 0xDED5EC
-We are a CTF-Team including five student from Isfahan University of Technology. Here we upload some CTF problems that was interesting with their write-ups.
+# CTF Challenges
+A repository for CTF Challenges (Capture The Flag, Jeopardy)
 
-## List of problems
+Here I upload:
+- Challenges i solved from:
+	- Online competitions
+	- Practice sites
+- Good resources
+- Helpful tools
+
+## List of challenges
 ### Cryptograpy:
 
  - [tamuctf-crypto3](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/tamuctf-crypto3.md)
