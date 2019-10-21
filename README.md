@@ -13,4 +13,6 @@ Here I upload:
 
  - [tamuctf-crypto3](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/tamuctf-crypto3.md)
  - [ctflearn-p177](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/ctflearn-p177.md)
+ - [ctflearn-p115](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/ctflearn-p115.md)
+ - [ctflearn-p119](https://github.com/HadiFazelinia/CTF-Challenges/blob/master/cryptography/ctflearn-p119.md)
 
