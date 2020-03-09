@@ -23,3 +23,8 @@ Here we upload:
  - [X-MASctf-crypto2](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2.md) 
 	- [xmasctf-crypto2-file1.txt](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file1.txt) 
 	- [xmasctf-crypto2-file2.enc](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file2.enc)
+
+### Web:
+
+ - [utctf-web1: epic admin pwn](./web/epic-admin-pwn/WRITEUP.md)
+ - [utctf-web3: Shrek Fans Only](./web/shrek-fans-only/WRITEUP.md)
