@@ -23,8 +23,13 @@ Here we upload:
  - [X-MASctf-crypto2: DeFUNct Ransomware](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2.md) 
 	- [xmasctf-crypto2-file1.txt](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file1.txt) 
 	- [xmasctf-crypto2-file2.enc](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file2.enc)
+ - [UTCTF-crypto1: [basics] crypto](./cryptography/utctf_basics-crypto/WRITEUP.md)
+	- [binary.txt](./cryptography/utctf_basics-crypto/binary.txt)
+ - [UTCTF-crypto2: One True Problem](./cryptography/utctf_One-True-Problem/WRITEUP.md)
+ - [UTCTF-crypto3: Random ECB](./cryptography/utctf_Random-ECB/WRITEUP.md)
+	- [server.py](./cryptography/utctf_Random-ECB/server.py)
 
 ### Web:
 
- - [utctf-web1: epic admin pwn](./web/epic-admin-pwn/WRITEUP.md)
- - [utctf-web3: Shrek Fans Only](./web/shrek-fans-only/WRITEUP.md)
+ - [UTCTF-web1: epic admin pwn](./web/epic-admin-pwn/WRITEUP.md)
+ - [UTCTF-web3: Shrek Fans Only](./web/shrek-fans-only/WRITEUP.md)
