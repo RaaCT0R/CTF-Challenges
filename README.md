@@ -20,7 +20,7 @@ Here we upload:
  - [Ctflearn-p115: Character Encoding](./cryptography/ctflearn_Character-Encoding/ctflearn-p115.md)
  - [Ctflearn-p119: RSA Beginner](./cryptography/ctflearn_RSA-Beginner/ctflearn-p119.md)
 	- [ctflearn-p119-file](./cryptography/ctflearn_RSA-Beginner/ctflearn-p119-file)
- - [X-MASctf-crypto2](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2.md) 
+ - [X-MASctf-crypto2: DeFUNct Ransomware](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2.md) 
 	- [xmasctf-crypto2-file1.txt](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file1.txt) 
 	- [xmasctf-crypto2-file2.enc](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file2.enc)
 
