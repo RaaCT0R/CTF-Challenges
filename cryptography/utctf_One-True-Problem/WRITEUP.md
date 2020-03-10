@@ -65,3 +65,19 @@ Now we can XOR cipher with key and get the plaintext. Let's open commandline aft
 **The Flag**
 
     utflag{tw0_tim3_p4ds}
+    
+P.S: 2 day after CTF, i wonder why other characters wasn't printable, so I thinked a little more and realized, the flag, wasn't plaintext (should realize sooner! as the challenge description said!), but it was the key! With this function. We can use this function and find plaintext:
+
+	def repeatxor(text, key):
+		st = len(text)
+		sk = len(key)
+		empty=""
+		for i in range(0, st, 2):
+			x = int(text[i:i + 2], 16)
+			y = ord(key[(i // 2) % sk])
+			print(chr(x ^ y), end='')
+			
+**Output**
+
+	THE BEST CTF CATEGORY IS CRYPTOGRAPHY!
+	NO THE BEST ONE IS BINARY EXPLOITATION
