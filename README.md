@@ -9,9 +9,15 @@ Here we upload:
 - Helpful tools and sitess
 
 
-##### Design by our CTF Team, [0xDED5EC](https://ctftime.org/team/50270).
+##### Design by our CTF Team, [TernaryBits](https://ctftime.org/team/50270).
 
 ## List of challenges
+### Android
+
+ - [razictf2020-chasing-a-lock](./android/razictf2020-chasing-a-lock/)
+ - [razictf2020-ctf-coin](./android/razictf2020-ctf-coin/)
+ - [razictf2020-friends](./android/razictf2020-friends/)
+
 ### Cryptograpy:
 
  - [Tamuctf-crypto3: :)](./cryptography/tamuctf_\:\)/tamuctf-crypto3.md)
