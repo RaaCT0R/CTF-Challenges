@@ -3,7 +3,7 @@
 ### Description:
 > Santa got infected by a ransomware! His elves managed to extract the public key, but couldn't break it. Help Santa decrypt his memos and save Christmas!
 > 
-> P.S: given files: *xmasctf-crypto2-file1.txt*, *xmasctf-crypto2-file2.enc*
+> P.S: given files: *[xmasctf-crypto2-file1.txt](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file1.txt)*, *[xmasctf-crypto2-file2.enc](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2-file2.enc)*
 
 ### Solution:
 
