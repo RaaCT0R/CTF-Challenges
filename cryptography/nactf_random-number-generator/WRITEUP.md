@@ -27,7 +27,7 @@ The **time.time()** will return seconds passed from 1970. So before we start the
         resp = r.recvline()
         return resp
 
-Since the service use only 5 precision of time() function, and it's divided by 100, the bruteforce should not be large. Add **0.000001** to time, generate a random number, compare to **r**, till we find right seed. Then we generate two next numbers and send to server and get flag in return. let's see the code:
+Since the service use only 5 precision of time() function, and it's divided by 100, the bruteforce should not be large. Add **0.00001** to time, generate a random number, compare to **r**, till we find right seed. Then we generate two next numbers and send to server and get flag in return. let's see the code:
 
     start_seed = round(time.time() / 100, 5)
 
