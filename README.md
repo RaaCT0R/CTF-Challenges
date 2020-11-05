@@ -28,6 +28,7 @@ Here we upload:
 	- [UTCTF-crypto3: Random ECB](./cryptography/utctf_Random-ECB/WRITEUP.md)
 	- [nactf-crypto5: Random Number Generator](./cryptography/nactf_random-number-generator/WRITEUP.md)
 	- [nactf-crypto5: Error 1](./cryptography/nactf_error-1/WRITEUP.md)
+	- [nactf-crypto5: Error 2](./cryptography/nactf_error-2/WRITEUP.md)
  - Sites and Laboratories
 	- [Ctflearn-p177: ALEXCTF CR2: MANY TIME SECRETS](./cryptography/ctflearn_ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177.md)
 	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn_Character-Encoding/ctflearn-p115.md)
