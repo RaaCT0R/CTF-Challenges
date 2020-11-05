@@ -4,7 +4,7 @@
 ### Description:
 > This time Fady learned from his old mistake and decided to use onetime pad as his encryption technique, but he never knew why people call it one time pad! Flag will start with ALEXCTF{. 
 > 
-> P.S: given file: [ctflearn-p177-file](./cryptography/ctflearn_ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177-file)
+> P.S: given file: [ctflearn-p177-file](./ctflearn-p177-file)
 
 ### Solution:
 

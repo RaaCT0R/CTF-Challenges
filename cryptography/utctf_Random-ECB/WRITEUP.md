@@ -3,7 +3,7 @@
 ### Description:
 > nc ecb.utctf.live 9003
 > 
-> P.S: given file: *[server.py](./cryptography/utctf_Random-ECB/server.py)*
+> P.S: given file: *[server.py](./server.py)*
 
 ### Solution:
 

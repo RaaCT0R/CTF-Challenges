@@ -3,7 +3,7 @@
 ### Description:
 > Can you make it through all of the encodings?
 > 
-> P.S: given files: *[binary.txt](./cryptography/utctf_basics-crypto/binary.txt)*
+> P.S: given files: *[binary.txt](./binary.txt)*
 
 ### Solution:
 
