@@ -58,7 +58,7 @@ Since the service use only 5 precision of time() function, and it's divided by 1
         resp = send_r('{0}'.format(r1), '{0}'.format(r2))
         print(resp)
 
-At first, i didn't get the flag. So i tried larger loop. That mean adding more minutes as hours, and stil failed! Then I realized there can be time difference between my location and server location! so I saved start_seed for some hours ago, and It works!
+At first, i didn't get the flag. So i tried larger loop. That mean adding more minutes and hours, and still failed! Then I realized there can be time difference between my location and server location! So I started **start_seed** from some hours ago, and It worked!
 
     start_seed = round(time.time() / 100 - 10, 5)
 
