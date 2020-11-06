@@ -35,7 +35,10 @@ Here we upload:
  - [UTCTF-crypto3: Random ECB](./cryptography/utctf_Random-ECB/WRITEUP.md)
 	- [server.py](./cryptography/utctf_Random-ECB/server.py)
 
+### Pwn:
+ - [2020-nactf: covid tracker tracker tracker](./pwn/2020-nactf-cttt/)
+
 ### Web:
 
- - [UTCTF-web1: epic admin pwn](./web/epic-admin-pwn/WRITEUP.md)
- - [UTCTF-web3: Shrek Fans Only](./web/shrek-fans-only/WRITEUP.md)
+ - [UTCTF-web1: epic admin pwn](./web/epic-admin-pwn/)
+ - [UTCTF-web3: Shrek Fans Only](./web/shrek-fans-only/)
