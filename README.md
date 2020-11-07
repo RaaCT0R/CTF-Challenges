@@ -34,7 +34,10 @@ Here we upload:
 	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn_Character-Encoding/ctflearn-p115.md)
 	- [Ctflearn-p119: RSA Beginner](./cryptography/ctflearn_RSA-Beginner/ctflearn-p119.md)
 
+### Pwn:
+ - [2020-nactf: covid tracker tracker tracker](./pwn/2020-nactf-cttt/)
+
 ### Web:
 
- - [UTCTF-web1: epic admin pwn](./web/epic-admin-pwn/WRITEUP.md)
- - [UTCTF-web3: Shrek Fans Only](./web/shrek-fans-only/WRITEUP.md)
+ - [UTCTF-web1: epic admin pwn](./web/epic-admin-pwn/)
+ - [UTCTF-web3: Shrek Fans Only](./web/shrek-fans-only/)
