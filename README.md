@@ -9,8 +9,6 @@ Here we upload:
 - Helpful tools and sitess
 
 
-##### Design by our CTF Team, [TernaryBits](https://ctftime.org/team/50270).
-
 ## List of challenges
 ### Android
 
