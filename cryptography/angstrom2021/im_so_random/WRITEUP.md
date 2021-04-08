@@ -9,7 +9,7 @@
 
 ### Solution:
 
-According to code, we can ask the server to give us random number up to 3 times. How server generate random number? Simple, just generate 2 random number with *Generator* and multiply them. 
+According to code, we can ask the server to give us random number up to 3 times. How server generates random number? Simple, just generates 2 random number with *Generator* and multiples them. 
 
     class Generator():
         DIGITS = 8

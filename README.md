@@ -30,6 +30,7 @@ Here we upload:
 	- [angstrom2021-crypto5: Home Rolled Crypto](./cryptography/angstrom2021/home_rolled_crypto/WRITEUP.md)
 	- [angstrom2021-crypto6: Follow the Currents](./cryptography/angstrom2021/follow_the_currents/WRITEUP.md)
 	- [angstrom2021-crypto7: I'm so Random](./cryptography/angstrom2021/im_so_random/WRITEUP.md)
+	- [angstrom2021-crypto8: Circle of Trust](./cryptography/angstrom2021/circle_of_trust/WRITEUP.md)
  - Sites and Laboratories
 	- [Ctflearn-p177: ALEXCTF CR2: MANY TIME SECRETS](./cryptography/ctflearn/ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177.md)
 	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn/Character-Encoding/ctflearn-p115.md)
