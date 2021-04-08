@@ -19,18 +19,18 @@ Here we upload:
 ### Cryptograpy:
 
  - Competitions
-	- [Tamuctf-crypto3: :)](./cryptography/tamuctf_\:\)/tamuctf-crypto3.md)
-	- [X-MASctf-crypto2: DeFUNct Ransomware](./cryptography/xmasctf_DeFUNct-Ransomware/xmasctf-crypto2.md) 
-	- [UTCTF-crypto1: [basics] crypto](./cryptography/utctf_basics-crypto/WRITEUP.md)
-	- [UTCTF-crypto2: One True Problem](./cryptography/utctf_One-True-Problem/WRITEUP.md)
-	- [UTCTF-crypto3: Random ECB](./cryptography/utctf_Random-ECB/WRITEUP.md)
-	- [nactf-crypto5: Random Number Generator](./cryptography/nactf_random-number-generator/WRITEUP.md)
-	- [nactf-crypto5: Error 1](./cryptography/nactf_error-1/WRITEUP.md)
-	- [nactf-crypto5: Error 2](./cryptography/nactf_error-2/WRITEUP.md)
+	- [Tamuctf-crypto3: :)](./cryptography/tamuctf2019_\:\)/tamuctf-crypto3.md)
+	- [X-MASctf-crypto2: DeFUNct Ransomware](./cryptography/xmasctf2020_DeFUNct-Ransomware/xmasctf-crypto2.md) 
+	- [UTCTF-crypto1: [basics] crypto](./cryptography/utctf2020_basics-crypto/WRITEUP.md)
+	- [UTCTF-crypto2: One True Problem](./cryptography/utctf2020_One-True-Problem/WRITEUP.md)
+	- [UTCTF-crypto3: Random ECB](./cryptography/utctf2020_Random-ECB/WRITEUP.md)
+	- [nactf-crypto3: Random Number Generator](./cryptography/nactf2020_random-number-generator/WRITEUP.md)
+	- [nactf-crypto4: Error 1](./cryptography/nactf2020_error-1/WRITEUP.md)
+	- [nactf-crypto5: Error 2](./cryptography/nactf2020_error-2/WRITEUP.md)
  - Sites and Laboratories
-	- [Ctflearn-p177: ALEXCTF CR2: MANY TIME SECRETS](./cryptography/ctflearn_ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177.md)
-	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn_Character-Encoding/ctflearn-p115.md)
-	- [Ctflearn-p119: RSA Beginner](./cryptography/ctflearn_RSA-Beginner/ctflearn-p119.md)
+	- [Ctflearn-p177: ALEXCTF CR2: MANY TIME SECRETS](./cryptography/ctflearn/ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177.md)
+	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn/Character-Encoding/ctflearn-p115.md)
+	- [Ctflearn-p119: RSA Beginner](./cryptography/ctflearn/RSA-Beginner/ctflearn-p119.md)
 
 ### Pwn:
  - [2020-nactf: covid tracker tracker tracker](./pwn/2020-nactf-cttt/)
