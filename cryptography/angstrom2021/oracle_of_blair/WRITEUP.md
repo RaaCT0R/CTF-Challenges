@@ -11,7 +11,7 @@
 
 My favorite challenge in this CTF! We have server code, which take an input from us, replace any "*{}*" occurrence with flag string and then apply some cryptography to it. 
 
-First I tried to get flag size. Sending '*{}*' to server and get 32bytes of data, meaning that flag length is in range 17 to 32. All we need to is add character to the string one by one and see the results.
+First I tried to get flag size. Sending '*{}*' to server and get 32bytes of data, meaning that flag length is in range 17 to 32. All we need to do is adding character to the string one by one and see the results.
 
     for i in range(16):
         pd1 = 'a'*i + '{}'
@@ -31,7 +31,7 @@ Then **inp** will be:
 
     aaaaaaaactf{XXXX XXXXXXXXXXXXXXX} aaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaa
 
-Now, let's call first 16 characters of '*a*' **C1** and second 16 characters of '*a*' **C2** and "*XXXXXXXXXXXXXXX}*" **C0**. The server response will be 128 hex characters representing 64bytes of data. According to last sentence, the last 16bytes of server response will be **P2**, the bytes before that will be **P1**. We know **I2**=**I1** (CBC mode basics!). We also know that **C1**^**I2**=**P2** ('*^*' is **XOR** operator). So we have **C1**^**P2**=**I2**.
+Now, let's call first 16 characters of '*a*' **C1** and second 16 characters of '*a*' **C2** and "*XXXXXXXXXXXXXXX}*" **C0**. The server response will be 128 hex characters representing 64bytes of data. According to previous sentence, the last 16bytes of server response will be **P2**, the 16bytes before that will be **P1**. We know **I2**=**I1** (**C1**=**C2** and CBC mode basics!). We also know that **C1**^**I2**=**P2** ('*^*' is **XOR** operator). So we have **C1**^**P2**=**I2**.
 
 We know all of this for previous block too, **C0**^**P1**=**I1**. We know **C1**, **P1**, **P2**. Then we can calculate **C0** as: 
 
