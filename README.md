@@ -31,7 +31,8 @@ Here we upload:
 	- [angstrom2021-crypto6: Follow the Currents](./cryptography/angstrom2021/follow_the_currents/WRITEUP.md)
 	- [angstrom2021-crypto7: I'm so Random](./cryptography/angstrom2021/im_so_random/WRITEUP.md)
 	- [angstrom2021-crypto8: Circle of Trust](./cryptography/angstrom2021/circle_of_trust/WRITEUP.md)
-	- [angstrom2021-crypto8: Substitution](./cryptography/angstrom2021/substitution/WRITEUP.md)
+	- [angstrom2021-crypto9: Substitution](./cryptography/angstrom2021/substitution/WRITEUP.md)
+	- [angstrom2021-crypto10: Oracle of Blair](./cryptography/angstrom2021/oracle_of_blair/WRITEUP.md)
  - Sites and Laboratories
 	- [Ctflearn-p177: ALEXCTF CR2: MANY TIME SECRETS](./cryptography/ctflearn/ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177.md)
 	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn/Character-Encoding/ctflearn-p115.md)
