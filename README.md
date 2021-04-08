@@ -28,7 +28,8 @@ Here we upload:
 	- [nactf2020-crypto4: Error 1](./cryptography/nactf2020/error-1/WRITEUP.md)
 	- [nactf2020-crypto5: Error 2](./cryptography/nactf2020/error-2/WRITEUP.md)
 	- [angstrom2021-crypto5: Home Rolled Crypto](./cryptography/angstrom2021/home_rolled_crypto/WRITEUP.md)
-	- [angstrom2021-crypto5: Follow the Currents](./cryptography/angstrom2021/follow_the_currents/WRITEUP.md)
+	- [angstrom2021-crypto6: Follow the Currents](./cryptography/angstrom2021/follow_the_currents/WRITEUP.md)
+	- [angstrom2021-crypto7: I'm so Random](./cryptography/angstrom2021/im_so_random/WRITEUP.md)
  - Sites and Laboratories
 	- [Ctflearn-p177: ALEXCTF CR2: MANY TIME SECRETS](./cryptography/ctflearn/ALEXCTF-CR2:-MANY-TIME-SECRETS/ctflearn-p177.md)
 	- [Ctflearn-p115: Character Encoding](./cryptography/ctflearn/Character-Encoding/ctflearn-p115.md)
